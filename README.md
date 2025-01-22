@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Shil</h1>
-<h3 align="center">A techie, got submerged in the field of '''</dev>'''olution!</h3>
+<h3 align="center">A techie, got submerged in the field of devolution!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snippy-29&label=Profile%20views&color=0e75b6&style=flat" alt="snippy-29" /> </p>
 
