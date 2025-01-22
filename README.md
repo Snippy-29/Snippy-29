@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **soumyajitshil4@gmail.com**
 
-- ⚡ Fun fact **In the delulu of becoming Developer or Engineer!**
+- ⚡ Fun fact **is I'm in the delulu of becoming Developer or Engineer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
