@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/myself_soumya29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myself_soumya29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumyajit-shil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyajit-shil" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/soumyajit-shil](https://www.linkedin.com/in/soumyajit-shil-89867331b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyajit-shil" height="30" width="40" /></a>
 <a href="https://instagram.com/myself_soumya_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myself_soumya_29" height="30" width="40" /></a>
 </p>
 
